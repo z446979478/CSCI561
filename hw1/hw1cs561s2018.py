@@ -366,7 +366,7 @@ if __name__ == '__main__':
     board_state = []
     value = []
 
-    filepath = "input.txt"
+    filepath = "input3.txt"
     output_path = "output.txt"
     f = open(filepath,'r')
     for index,line in enumerate(f):
